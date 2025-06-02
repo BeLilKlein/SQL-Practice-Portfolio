@@ -1,2 +1,5 @@
-# SQL-Practice-Portfolio
-My personal SQL practice portfolio using SELECT, COUNT, DISTINCT, and LIMIT.
+# SQL Pratice Portfolio
+
+This repo comtains hands-on SQL practice including:
+- SELECT Statement
+- COUNT, DISTINCT, LIMIT
